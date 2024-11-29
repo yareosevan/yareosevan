@@ -1,3 +1,7 @@
 JOptionPane 
  javax.swing.JOptionPane
-pass class
+pass class 
+pass static void main (String []args)
+int num
+JOptionPane.showInputDialog (nul,"Ingresa un número  "
+);
