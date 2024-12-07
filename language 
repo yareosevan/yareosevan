@@ -3,5 +3,8 @@ JOptionPane
 pass class 
 pass static void main (String []args)
 int num
-JOptionPane.showInputDialog (nul,"Ingresa un número  "
-);
+JOptionPane.showInputDialog (nul,"Ingresa un número )
+
+for(i=0;<=5;i ++) 
+system.out.printl ();
+for (I=0;>=5; I++ )
