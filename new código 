@@ -1,3 +1,5 @@
 import javax.swing.JOptionPane
 pass class código
 public class void main (String [] args)
+byte a,c;
+caja= Byteparse (JOptionPane.showInputDialog(null,
